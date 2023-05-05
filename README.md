@@ -1,5 +1,7 @@
 # Pokédex
 
+<img src="assets/img/Templates - Pokedex.png" alt="Pokedex">
+
 ## Descrição
 
 Este projeto é uma página web que funciona como uma Pokédex de Pokémon. Ele foi construído com JavaScript, HTML e CSS e acessa a PokeAPI para obter informações sobre os Pokémon.
