@@ -1,6 +1,6 @@
 # Pokédex
 
-<img src="assets/img/Templates - Pokedex.png" alt="Pokedex">
+<img src="assets/img/Templates - Pokedex.png" alt="Pokedex" style="width: 600px; height: 500px;">
 
 ## Descrição
 
